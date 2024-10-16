@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Dotnet\\bless-web\\pedido\\back-end\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{077102A7-CD15-4E48-9147-EA56A6C9DA56}|BlessWebPedidoSidi.Api\\BlessWebPedidoSidi.Api.csproj|d:\\work\\dotnet\\bless-web\\pedido\\back-end\\blesswebpedidosidi.api\\controllers\\v1\\orcamentowebcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077102A7-CD15-4E48-9147-EA56A6C9DA56}|BlessWebPedidoSidi.Api\\BlessWebPedidoSidi.Api.csproj|solutionrelative:blesswebpedidosidi.api\\controllers\\v1\\orcamentowebcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992AE24A-D643-46D4-95A8-57940F3E9FB6}|BlessWebPedidoSidi.Infra\\BlessWebPedidoSidi.Infra.csproj|d:\\work\\dotnet\\bless-web\\pedido\\back-end\\blesswebpedidosidi.infra\\blesswebpedidosidi.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{992AE24A-D643-46D4-95A8-57940F3E9FB6}|BlessWebPedidoSidi.Infra\\BlessWebPedidoSidi.Infra.csproj|solutionrelative:blesswebpedidosidi.infra\\blesswebpedidosidi.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlessWebPedidoSidi.Infra.csproj",
+              "DocumentMoniker": "D:\\Work\\Dotnet\\bless-web\\pedido\\back-end\\BlessWebPedidoSidi.Infra\\BlessWebPedidoSidi.Infra.csproj",
+              "RelativeDocumentMoniker": "BlessWebPedidoSidi.Infra\\BlessWebPedidoSidi.Infra.csproj",
+              "ToolTip": "D:\\Work\\Dotnet\\bless-web\\pedido\\back-end\\BlessWebPedidoSidi.Infra\\BlessWebPedidoSidi.Infra.csproj",
+              "RelativeToolTip": "BlessWebPedidoSidi.Infra\\BlessWebPedidoSidi.Infra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T16:08:10.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrcamentoWebController.cs",
+              "DocumentMoniker": "D:\\Work\\Dotnet\\bless-web\\pedido\\back-end\\BlessWebPedidoSidi.Api\\Controllers\\v1\\OrcamentoWebController.cs",
+              "RelativeDocumentMoniker": "BlessWebPedidoSidi.Api\\Controllers\\v1\\OrcamentoWebController.cs",
+              "ToolTip": "D:\\Work\\Dotnet\\bless-web\\pedido\\back-end\\BlessWebPedidoSidi.Api\\Controllers\\v1\\OrcamentoWebController.cs",
+              "RelativeToolTip": "BlessWebPedidoSidi.Api\\Controllers\\v1\\OrcamentoWebController.cs",
+              "ViewState": "AgIAAMgBAAAAAAAAAAAqwMkBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:26:31.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

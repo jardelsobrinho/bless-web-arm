@@ -1,0 +1,1 @@
+docker build -t bless.web.pedido.sidi.api:latest-arm -f Dockerfile .

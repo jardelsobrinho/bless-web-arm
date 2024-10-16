@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="itext7" Version="8.0.5" />
+	</ItemGroup>
+
+	<ItemGroup>		
+		<ProjectReference Include="..\BlessWebPedidoSidi.Application\BlessWebPedidoSidi.Application.csproj" />		
+		<ProjectReference Include="..\BlessWebPedidoSidi.Domain\BlessWebPedidoSidi.Domain.csproj" />
+		<ProjectReference Include="..\BlessWebPedidoSidi.Infra\BlessWebPedidoSidi.Infra.csproj" />
+	</ItemGroup>
+
+</Project>

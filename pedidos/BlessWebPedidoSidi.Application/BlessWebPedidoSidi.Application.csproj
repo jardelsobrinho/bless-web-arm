@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ClientesWeb\RetornaClienteCNPJWeb\**" />
+    <EmbeddedResource Remove="ClientesWeb\RetornaClienteCNPJWeb\**" />
+    <None Remove="ClientesWeb\RetornaClienteCNPJWeb\**" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="12.0.1" />
+		<PackageReference Include="Dapper" Version="2.1.28" />
+		<PackageReference Include="itext7" Version="8.0.5" />
+		<PackageReference Include="itext7.bouncy-castle-adapter" Version="8.0.5" />
+		<PackageReference Include="Magick.NET-Q16-AnyCPU" Version="14.0.0" />
+		<PackageReference Include="MediatR" Version="12.2.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.15" />
+		<PackageReference Include="FirebirdSql.Data.FirebirdClient" Version="10.0.0" />		
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\BlessWebPedidoSidi.Domain\BlessWebPedidoSidi.Domain.csproj" />
+		<ProjectReference Include="..\BlessWebPedidoSidi.Infra\BlessWebPedidoSidi.Infra.csproj" />
+	</ItemGroup>
+
+
+</Project>
